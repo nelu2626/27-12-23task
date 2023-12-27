@@ -1,0 +1,19 @@
+p{  border: 2px;
+    word-spacing: 50px;
+    text-align: right;
+    
+}
+#container{float:center;
+    display:flex;
+    flex-direction:row;
+    justify-content:space-evenly;
+    
+    
+    
+    
+    
+      }
+      p{
+        padding-left: 20px;
+        
+      }
